@@ -14,7 +14,7 @@ app.get("/", (req, res ) => {
 })
 
 //We version the end-points so we can scale it in future using flags(v), and making future additions backward comaptible
-// introducing an exende v2 following a V1
+// exending v1 to v2
 //eg.::  /api/v1/search   and /api/v2/search
 app.get("/api/v1/search", async (req, res ) => {
 	//doesn't make sense waiting for each individual request
@@ -44,10 +44,6 @@ app.get("/api/v1/search", async (req, res ) => {
 	//search -> books|videos -> <no more calls>
 	
 	//************************************************************************
-
-	
-
-	
 
 });
 
