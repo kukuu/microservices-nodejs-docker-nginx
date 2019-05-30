@@ -42,8 +42,35 @@ app.get("/api/v1/search", async (req, res ) => {
 	//I  will re-factor and implement the 1 hop rule in my next commit, when we fetch from the network. 
 	//This is when a service will not start more than one call chain
 	//search -> books|videos -> <no more calls>
+
+	//pick up slide 8
 	
 	//************************************************************************
+
+});
+
+//Implementing the 1 hop rule
+app.get("/api/v1/search/depends-on", async (req, res) => {
+	try {
+		//we dont want to await. We want to both requests to run at the same time synchronously
+		//We fetch from the network
+
+		const videoPromise =  fetch("http://videos:6000/");
+		const bookPromise = fetch("http://books:6000/");
+		const promises = [videoPromise, bookPromise];//de-structure
+		const [videoResponse, bookResponse ] = await Promise.all(promises);
+		
+
+		//de-construct and serialise into JSON
+		const videoJson = await videoResponse.json();
+		const bookJson = await bookResponse.json();
+
+		res.json({video: videoJson, book: bookJson});
+
+	} catch(e){
+		res.status(500).json();
+
+	}
 
 });
 
