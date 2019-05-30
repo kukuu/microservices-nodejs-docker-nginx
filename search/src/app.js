@@ -49,7 +49,7 @@ app.get("/api/v1/search", async (req, res ) => {
 
 });
 
-//Implementing the 1 hop rule
+//Implementing the 1 hop rule:30/05/19
 app.get("/api/v1/search/depends-on", async (req, res) => {
 	try {
 		//we dont want to await. We want to both requests to run at the same time synchronously
