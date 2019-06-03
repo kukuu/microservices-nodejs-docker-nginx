@@ -1,7 +1,7 @@
 # Microservices with Node, Docker and Nginx 
 ## Services
-### Book Service
-### Video
+### Book Service - https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/books
+### Video Service
 ### SEARCH Service
 
 ## Connecting the micro-services
