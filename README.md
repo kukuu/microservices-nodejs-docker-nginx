@@ -1,7 +1,7 @@
 # Microservices with Node, Docker and Nginx 
 ## Services
 ### Book Service 
-### Video Service
+### Web Service
 ### SEARCH Service
 
 ## Connecting the micro-services
