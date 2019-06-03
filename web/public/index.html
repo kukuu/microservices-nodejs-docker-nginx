@@ -28,7 +28,16 @@
 			<input id="videoname" type="text">
 			<input type="submit" value="Submit">
 		</form>
-		
+
 		<!-- Search-->
+		<h1> Search</h1>
+		<form onsubmit="retun API.search()">
+			<input id="search" type="text">
+			<input type="submit" value="Submit">
+		</form>
+
+		<!--Handler to append results-->
+		<ul id="matches"></ul>
+
 	</body>
 </html>
