@@ -30,6 +30,30 @@
 
 
 		//Build SEARCH procedure
+		const search = () => {
+			try {
+				fetch("http://localhost:8080/api/v1/search")
+				.then(resp = resp.json())
+				.then(results => {
+					const ul = document.querySelector("#matches");
+					ul.innerHtml = "";
+					results.forEach(data => {
+						const li = document.createElement("li");
+						const liContent =`
+						<p>${data.name}</p>
+						<p>${data.type}</p>
+						`;
+
+						li.innerHtml = liContent;
+
+						ul.appendChild("li");
+					})
+				})
+
+			} catch (e){
+				console.log(e);
+			}
+		}
 
 		//return results
 	})
