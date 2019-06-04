@@ -1,3 +1,5 @@
+	//Builtt with Closure
+
 	// Build an abstract interface  to save post function
 	const API = (() => {
 		const makeSaveFunc = (selector, postNameFunc) => () => {
@@ -55,8 +57,13 @@
 			}
 		}
 
-		//return results
-	})
+	//return results
+	return {
+		savedVideo: makeSaveFunc("#videoName", postVideoName),
+		savedBook: makeSaveFunc("#bookName", postBookName),
+		search
+	}
+})();
 
 
 
