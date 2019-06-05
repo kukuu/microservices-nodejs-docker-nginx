@@ -13,8 +13,10 @@
 			return false;
 		}
 
-		//Create an INTERFACE for a  named instance of the Abstract function
+		//Create an INTERFACE for a  named instance of the Abstract function for AJAX operations
+		//SOLID principles
 		//Re-use same function to make requests
+		//Single Responsibility
 		const makePostNameFunc = uri => val => {
 			fetch(uri, {
 				method: "POST",
@@ -26,9 +28,9 @@
 			});
 		};
 
-		//fetch data for video and book micro-services and cache re-use function name
+		//POST data for video and book micro-services and cache re-use function name
 		const postVideoName = makePostNameFunc("https://localhost:8080/api/v1/videos");
-		const postVideoName = makePostNameFunc("https://localhost:8080/api/v1/books");
+		const postBookName = makePostNameFunc("https://localhost:8080/api/v1/books");
 
 
 		//Build SEARCH procedure
@@ -37,6 +39,8 @@
 				fetch("http://localhost:8080/api/v1/search")
 				.then(resp = resp.json())
 				.then(results => {
+					//Generating dynamic template for results
+					//Dom manipulations
 					const ul = document.querySelector("#matches");
 					ul.innerHtml = "";
 					results.forEach(data => {
