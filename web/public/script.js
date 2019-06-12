@@ -1,6 +1,7 @@
 	//Builtt with Closure
 
-	// Build an abstract interface  to save post function
+	// Build an abstract interface  to save post function - Gigher Order Functions 
+//Takes selector and a network function for handling  requests for the Services.
 	const API = (() => {
 		const makeSaveFunc = (selector, postNameFunc) => () => {
 			try {
