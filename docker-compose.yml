@@ -14,3 +14,20 @@ services:
         - db
       environment: 
         - MONGO_DB_URI = mongo://db/microservices
+
+    books: 
+      build: './books'
+      ports: "3002: 3000"
+      depends_on: 
+        - db
+      environment: 
+        - MONGO_DB_URI=mongodb://db/microservices
+
+    videos:
+      build: './videos'
+      ports: "3003: 3000"
+      depends_on: 
+        - db
+      environment: 
+        - MONGO_DB_URI = mongo://db/microservices
+
