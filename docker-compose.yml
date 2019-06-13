@@ -1,0 +1,16 @@
+version: '3'
+
+services: 
+    web: 
+      build: './web'
+      ports:
+        - "3000: 3000"
+
+    serach: 
+      build: './serach'
+      ports:
+        - "3001: 3000"
+      depends_on: 
+        - db
+      environment: 
+        - MONGO_DB_URI = mongo://db/microservices
