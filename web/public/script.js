@@ -1,7 +1,7 @@
 	//Builtt with Closure
 
-	// Build an abstract interface  to save post function - Gigher Order Functions 
-//Takes selector and a network function for handling  requests for the Services.
+	// Build an abstract interface  to save post function - Higher Order Functions 
+        //Takes selector and a network function for handling  requests for the Services.
 	const API = (() => {
 		const makeSaveFunc = (selector, postNameFunc) => () => {
 			try {
@@ -30,6 +30,7 @@
 		};
 
 		//POST data for video and book micro-services and cache re-use function name
+		//Actioning API calls for end points
 		const postVideoName = makePostNameFunc("https://localhost:8080/api/v1/videos");
 		const postBookName = makePostNameFunc("https://localhost:8080/api/v1/books");
 
