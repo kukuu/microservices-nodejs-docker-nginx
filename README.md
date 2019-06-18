@@ -40,7 +40,7 @@
   > docker ps
  
  ```
-### Setting Gateway / Reverse Proxy NGINX
+### Setting Gateway / Reverse Proxy with NGINX
 
 default.conf 
 
@@ -79,4 +79,65 @@ server {
   }
 }
 
+```
+
+### Managing fleet of microservices with Docker Compose
+
+docker-compose.yml
+
+```
+
+version: '3'
+
+services: 
+    web: 
+      build: './web'
+      ports:
+        - "3000: 3000"
+
+    serach: 
+      build: './serach'
+      ports:
+        - "3001: 3000"
+      depends_on: 
+        - db
+      environment: 
+        - MONGO_DB_URI = mongo://db/microservices
+
+    books: 
+      build: './books'
+      ports: 
+        - "3002: 3000"
+      depends_on: 
+        - db
+      environment: 
+        - MONGO_DB_URI=mongodb://db/microservices
+
+    videos:
+      build: './videos'
+      ports: 
+        - "3003: 3000"
+      depends_on: 
+        - db
+      environment: 
+        - MONGO_DB_URI = mongo://db/microservices
+
+    db: 
+      image: mongo:latest
+      ports: 
+        - "27017:27017"
+
+    nginx: 
+      image: nginx:latest
+      ports: 
+        - "8080"
+      volumes: 
+        - ./web/public:/svr/www/static
+        -  ./default/.conf:/etc/nginx/conf.d/default.conf
+      depends_on:
+          - web
+          - serach
+          - books
+          - videos
+      
 ```
