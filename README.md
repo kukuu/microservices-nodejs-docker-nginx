@@ -1,8 +1,8 @@
 # Microservices with Node, Docker and Nginx 
-## Services
-### Book Service 
-### Web Service
-### SEARCH Service
+### Services
+#### Book Service 
+#### Web Service
+#### SEARCH Service
 
 ## Connecting the micro-services
 ### Bumping into CORS
