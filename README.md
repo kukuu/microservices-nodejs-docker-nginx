@@ -40,3 +40,43 @@
   > docker ps
  
  ```
+### Setting Gateway / Reverse Proxy NGINX
+
+default.conf 
+
+```
+
+
+server {
+  listen: 8080;
+  root: /srv/www/static;
+  location: / {
+
+    # We try to get static files from Nginx first
+    # Because Node is nt grat at I/O operations
+
+    try_files $uri $uri/ @web;
+  }
+
+  location @web {
+    proxy_pass http://web: 3000;
+  }
+
+  location /api/v1/search {
+    proxy_pass http://search: 3000;
+  }
+
+  location /api/v1/depends-on {
+    proxy_pass http://search: 3000;
+  }
+
+  location /api/v1/books {
+    proxy_pass http://books: 3000;
+  }
+
+    location /api/v1/videos {
+    proxy_pass http://videos: 3000;
+  }
+}
+
+```
