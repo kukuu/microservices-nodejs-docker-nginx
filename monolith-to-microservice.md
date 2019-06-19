@@ -1,4 +1,4 @@
-# Monolith to microservice
+# Monolith to microservice
 
 Note any changes should not change the user experience. Just the architecture.
 
