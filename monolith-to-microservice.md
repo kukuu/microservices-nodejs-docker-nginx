@@ -34,20 +34,26 @@ ii. Use Apache config file to do re-write rule for the new  urls (end points) - 
 
 A. Nodejs, NGINX, Containers
 
-B SCALA
+B. SCALA
 
 
 1. Apache 
 
-2. Containers . Make changes and see propagate through from 40 to 2 secs
+2. Container -  Make changes and see propagate through from 40 to 2 secs
 
-3. Architecture: Contract b/w service => model => client. Other microservices uses the client (thin) and do not have to create any more underlining http requests. 
+3. Architecture: Contract betweeen
 
-4. Other microservices will import the client
+```
+service => model => client
 
-5. Each microservice can supply more than one client in different technologies (JAVA, SCALA, JS[Node JS]). You simply import the appropriate client
+```
+4. Other microservices uses the client (thin) and do not have to create any more underlining http requests. 
 
-6. Create micro-service according to REST  Specification.
+5. Other microservices will import the client
+
+6. Each microservice can supply more than one client in different technologies (JAVA, SCALA, JS[Node JS]). You simply import the appropriate client
+
+7. Create micro-service according to REST  Specification.
 
 i. JSON as exchange format and
 
