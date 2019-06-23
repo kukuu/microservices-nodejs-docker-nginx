@@ -26,7 +26,7 @@ Note any changes should not change the user experience. Just the architecture.
 
 1. In the conversion we use a dispatcher proxy to the monolithic (legacy system) to capture requests and direct it to the micro-service
 
-ii. Use Apache config file to do re-write rule for the new  urls (end points) - pache's re-write engine switched on. Each URL with a string in it will be re-written.
+ii. Use Apache config file to do re-write rule for the new  urls (end points) - Apache's re-write engine switched on. Each URL with a string in it will be re-written.
 
 
 ## Technology
