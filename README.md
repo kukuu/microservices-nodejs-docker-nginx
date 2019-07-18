@@ -56,7 +56,7 @@ server {
   location: / {
 
     # We try to get static files from Nginx first
-    # Because Node is nt grat at I/O operations
+    # Because Node is not great at I/O operations
 
     try_files $uri $uri/ @web;
   }
