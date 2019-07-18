@@ -2,6 +2,7 @@
 
 	// Build an abstract interface  to save post function - Higher Order Functions 
         //Takes selector and a network function for handling  requests for the Services.
+        // 2 Parameters: a SELECTOR and a Network 'blue print' function.
 	const API = (() => {
 		const makeSaveFunc = (selector, postNameFunc) => () => {
 			try {
