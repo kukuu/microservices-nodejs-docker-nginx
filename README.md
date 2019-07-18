@@ -128,7 +128,7 @@ services:
     db: 
       image: mongo:latest
       ports: 
-        - "27017:27017"
+        - "27018:27018"
 
     nginx: 
       image: nginx:latest
