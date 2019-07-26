@@ -2,6 +2,10 @@
 
 Note any changes should not change the user experience. Just the architecture.
 
+1. https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
+
+2. https://github.com/kukuu/AGILITY/blob/master/difference-between-monolithic-and-microservices-architecture-1.png
+
 ## Strategy:
 
 1. Define Business context
