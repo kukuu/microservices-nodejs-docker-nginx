@@ -1,6 +1,8 @@
 # Microservices with Node, Docker and Nginx 
 
-Microservice &  SOAhttps://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
+Microservice &  SOA 
+
+https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
 
 ### Services
 #### Book Service 
@@ -98,7 +100,7 @@ services:
       ports:
         - "3000: 3000"
 
-    serach: 
+    search: 
       build: './serach'
       ports:
         - "3001: 3000"
