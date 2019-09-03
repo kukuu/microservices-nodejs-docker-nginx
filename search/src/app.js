@@ -3,10 +3,10 @@ const express = require("express");
 
 //The SEARCH API is a cross cutting  model , without its own domain. Hasn't got a DB. We fetch from the network
 //from both books and video models
-//This duplication of models wil be refactored into an nmp module and imported back for integrity and consistency
+//This duplication of models wil be refactored into an npm module and imported back for integrity and consistency
 const Video = require("./models/video_model");
 const Book = require("./models/book_model");
-const app = express();
+const app = express();//instantiate express => create app
 
 // root
 app.get("/", (req, res ) => {
@@ -14,7 +14,8 @@ app.get("/", (req, res ) => {
 })
 
 //We version the end-points so we can scale it in future using flags(v), and making future additions backward comaptible
-// exending v1 to v2
+//with enrichment from say AI, extending say v1 to v2
+
 //eg.::  /api/v1/search   and /api/v2/search
 app.get("/api/v1/search", async (req, res ) => {
 	//doesn't make sense waiting for each individual request
