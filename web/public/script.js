@@ -37,7 +37,7 @@
 
 
 		//Build SEARCH procedure
-		//Cross-cutting micto-service
+		//Cross-cutting micro-service
 		const search = () => {
 			try {
 				fetch("http://localhost:8080/api/v1/search")
