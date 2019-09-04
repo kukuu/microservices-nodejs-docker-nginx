@@ -6,6 +6,7 @@ https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md
 
 ### Services
 #### Book Service 
+#### Video Service 
 #### Web Service
 #### SEARCH Service
 
