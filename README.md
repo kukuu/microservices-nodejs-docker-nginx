@@ -46,6 +46,9 @@ https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md
   > docker ps
  
  ```
+ 
+ Note: The command to start each micro-service individually is stated in the Dockerfile and not from package.json.
+ 
 ### Setting Gateway / Reverse Proxy with NGINX
 
 default.conf 
