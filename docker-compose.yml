@@ -4,12 +4,12 @@ services:
     web: 
       build: './web'
       ports:
-        - "3000: 3000"
+        - "3000: 3010"
 
     serach: 
       build: './serach'
       ports:
-        - "3001: 3000"
+        - "3001: 3010"
       depends_on: 
         - db
       environment: 
@@ -18,7 +18,7 @@ services:
     books: 
       build: './books'
       ports: 
-        - "3002: 3000"
+        - "3002: 3010"
       depends_on: 
         - db
       environment: 
@@ -27,7 +27,7 @@ services:
     videos:
       build: './videos'
       ports: 
-        - "3003: 3000"
+        - "3003: 3010"
       depends_on: 
         - db
       environment: 
