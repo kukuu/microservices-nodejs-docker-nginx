@@ -5,7 +5,7 @@ const { DB_URI } =require("./src/config");
 const mongoose = require("mongoose");
 mongoose.connect(DB_URI);
 
-app.listen(3000, () => {
+app.listen(3010, () => {
 	console.log("Running on port 8050");
 	console.log(".....................")
 });
