@@ -7,6 +7,6 @@ WORKDIR  /src
 
 RUN npm install --production
 
-EXPOSE 3000
+EXPOSE 3010
 
 CMD  npm start
