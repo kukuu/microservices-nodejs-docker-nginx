@@ -22,6 +22,14 @@ https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md
 
 ### Running Docker Containers & Docker  Compose
  
+ Steps:
+ 
+ 1. Mapp application port to Docker
+ 
+ 2. Connect Docker to MongoDB
+ 
+ 3. Run aggregate services on Docker Compose
+ 
  ```
 
  > docker ps
