@@ -2,6 +2,8 @@
 
 The model and data composition of the algorithm in the book and video services are adaptable to each other. The SEARCH is a cross cutting service that relies on both other services.
 
+By cross-cutting the SEARCH API exploits both domains (book and video) without its own. Hasn't got a DB. We fetch from the network from both books and video models.
+
 ### Services
 #### Book Service 
 #### Video Service 
