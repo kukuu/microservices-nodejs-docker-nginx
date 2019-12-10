@@ -1,14 +1,14 @@
 # Microservices with Node, Docker and Nginx 
 
-Microservice &  SOA 
-
-https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
+The model and data composition of the algorithm in the book and video services are adaptable to each other. The SEARCH is a cross cutting service that relies on both other services.
 
 ### Services
 #### Book Service 
 #### Video Service 
 #### Web Service
 #### SEARCH Service
+
+https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
 
 ## Connecting the micro-services
 ### Bumping into CORS
