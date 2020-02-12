@@ -200,13 +200,19 @@ services:
 
 - https://github.com/kukuu/CI-CD-pipeline-with-Jenkins 
 
-# Performnce, Scaling and Elasticity
+# Performnce, Testing,  Scaling and Elasticity
+
+TDD - https://github.com/kukuu/TDD-setup-Node-ES6-Gulp-Mocha
 
 Tolerance and High Availability - https://github.com/kukuu/AGILITY/tree/master/AWS-AS 
 
 Indicators - https://github.com/kukuu/performance-optimisation-indicators 
 
-Containerisation - https://github.com/kukuu/Microservice-NodeJS/blob/master/kubernetes/1.png
+Containerisation - https://github.com/kukuu/Microservice-NodeJS/blob/master/kubernetes/1.png 
+
+Git - https://www.youtube.com/watch?v=MFtsLRphqDM 
+
+Selenium - https://www.youtube.com/watch?v=_JNeiGbAgL4
 
 # REACT
 
@@ -225,6 +231,18 @@ Containerisation - https://github.com/kukuu/Microservice-NodeJS/blob/master/kube
 - https://github.com/kukuu/react-apollo-graphql
 
 - https://www.youtube.com/watch?v=wxbHTCpPxpw (AWS AppSync)
+
+7. Testing
+
+Library - https://github.com/testing-library 
+
+Enzyme and Jest - https://www.youtube.com/watch?v=u5XTnNBotqs
+
+8. Storybook
+
+- https://storybook.js.org/docs/guides/guide-react/ 
+
+- https://www.youtube.com/watch?v=va-JzrmaiUM
 
 # Algorithm
 
