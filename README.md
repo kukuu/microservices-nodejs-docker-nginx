@@ -185,15 +185,54 @@ services:
 - https://github.com/kukuu/Microservice-NodeJS/tree/master/microservices  
 
 
-# CI/CD 
+# System Design and Architecture
 
-## Architecture
+- https://github.com/kukuu/algorithms/blob/master/system-design-architecture.md
+
+
+# CI/CD with AWS
 
 - https://github.com/kukuu/AGILITY/blob/master/white-paper/architectural-solutions/continuous-integration-with-team-city.png 
 
 - https://github.com/kukuu/Microservice-NodeJS/blob/master/kubernetes/1.png
 
-## Deployment
+# Deployment and Automation with Jenkins
 
-- https://github.com/kukuu/CI-CD-pipeline-with-Jenkins
+- https://github.com/kukuu/CI-CD-pipeline-with-Jenkins 
+
+# Performnce, Scaling and Elasticity
+
+Tolerance and High Availability - https://github.com/kukuu/AGILITY/tree/master/AWS-AS 
+
+Indicators - https://github.com/kukuu/performance-optimisation-indicators 
+
+Containerisation - https://github.com/kukuu/Microservice-NodeJS/blob/master/kubernetes/1.png
+
+# REACT
+
+1. Architecture - https://github.com/kukuu/redux-react/tree/master/architecture 
+
+2. REDUX & GraphQL - https://github.com/kukuu/react-redux-graphql-express
+
+3. Handling API calls - https://github.com/kukuu/redux-react/blob/master/making-http/js/actions.js/index.js
+
+4. Working with API - https://github.com/kukuu/redux-react/tree/master/react-redux-color-api
+
+5. REACT Native - https://github.com/kukuu/react-native
+
+6. REACT Apollo/GraphQL 
+
+- https://github.com/kukuu/react-apollo-graphql
+
+- https://www.youtube.com/watch?v=wxbHTCpPxpw (AWS AppSync)
+
+# Algorithm
+
+- https://github.com/kukuu/algorithms/blob/master/algorithms.md
+
+ 
+
+
+
+
 
