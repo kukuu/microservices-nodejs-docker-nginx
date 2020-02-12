@@ -182,4 +182,18 @@ services:
 ```
 # Micro-services with Swagger, NodeJS, Express Framework
 
-- https://github.com/kukuu/Microservice-NodeJS/tree/master/microservices
+- https://github.com/kukuu/Microservice-NodeJS/tree/master/microservices  
+
+
+# CI/CD 
+
+## Architecture
+
+- https://github.com/kukuu/AGILITY/blob/master/white-paper/architectural-solutions/continuous-integration-with-team-city.png 
+
+- https://github.com/kukuu/Microservice-NodeJS/blob/master/kubernetes/1.png
+
+## Deployment
+
+- https://github.com/kukuu/CI-CD-pipeline-with-Jenkins
+
