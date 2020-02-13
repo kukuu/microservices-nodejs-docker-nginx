@@ -8,6 +8,7 @@ app.use(bodyParser.json());
 
 
 //Requesting  API resource - route
+//root 
 app.get("/", (req, res ) => {
 	res.json({ msg: "Books Domain"})
 });
@@ -15,7 +16,7 @@ app.get("/", (req, res ) => {
 
 //GET :: Versioning API: "books"
 app.get("/api/v1/books", async () => {
-	//cache request
+	//cache request fetch with await from model
 	const books = await Book.find({})
 	res.json(books);
 })
