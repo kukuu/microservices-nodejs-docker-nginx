@@ -16,7 +16,7 @@ Problems with previous platform:
 
 6. Not scalable
 
-7. Minimum log management and tracking
+7. Minimum log management and tracking - resulting in countless hours of debugging.
 
 Motivation: 
 
@@ -38,7 +38,9 @@ Motivation:
 
 ```
 
-By cross-cutting, the SEARCH API exploits both domains (book and video) without its own. Hasn't got a DB. We fetch from the network (Network first strategy) from both books and video models.
+The new system is a next generation platform   that enhances the core features of the product identified. This includes improved data harvesting and search discovery
+
+The SEARCH module uses a cross cutting pattern implementation to improve performance. resducing request time. By cross-cutting, the SEARCH API exploits both domains (book and video) without its own. Hasn't got a DB. We fetch from the network (Network first strategy) from both books and video models.
 
 ### Services
 #### Book Service 
