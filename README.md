@@ -184,7 +184,12 @@ services:
 
 i. Swagger, NodeJS, Express Framework - https://github.com/kukuu/Microservice-NodeJS/tree/master/microservices 
 
-ii. Cinema - https://github.com/kukuu/cinema-microservice
+ii. Cinema - https://github.com/kukuu/cinema-microservice 
+
+iii. Making a Microservice - https://www.youtube.com/watch?v=aWxR05rUoto
+
+iv. Best Practices (How not to)  -  https://www.youtube.com/watch?v=9H3eICDz4-4
+
 
 
 # System Design and Architecture
@@ -212,8 +217,6 @@ Indicators - https://github.com/kukuu/performance-optimisation-indicators
 
 Containerisation - https://github.com/kukuu/Microservice-NodeJS/blob/master/kubernetes/1.png 
 
-Git - https://www.youtube.com/watch?v=MFtsLRphqDM 
-
 Selenium - https://www.youtube.com/watch?v=_JNeiGbAgL4
 
 # REACT
@@ -231,6 +234,8 @@ Selenium - https://www.youtube.com/watch?v=_JNeiGbAgL4
 6. REACT Apollo/GraphQL 
 
 - https://github.com/kukuu/react-apollo-graphql
+
+- https://www.youtube.com/watch?v=M4kk3Ac0WSM (Login)
 
 - https://www.youtube.com/watch?v=wxbHTCpPxpw (AWS AppSync)
 
@@ -253,10 +258,4 @@ Enzyme and Jest - https://www.youtube.com/watch?v=u5XTnNBotqs
 # Algorithm
 
 - https://github.com/kukuu/algorithms/blob/master/algorithms.md
-
- 
-
-
-
-
 
