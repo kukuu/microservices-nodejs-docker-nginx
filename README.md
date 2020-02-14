@@ -2,6 +2,22 @@
 
 The model and data composition of the algorithm in the book and video services are adaptable to each other. The SEARCH is a cross cutting service that relies on both other services.
 
+Problems with previous platform:
+
+1. Monolithic
+
+2. Tight coupling
+
+3. Slow release cycle
+
+4. Manual releases
+
+5. CI, but no CD
+
+6. Not scalable
+
+7. Minimum log management and tracking
+
 Motivation: 
 
 ```
