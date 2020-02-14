@@ -180,9 +180,11 @@ services:
           - videos
       
 ```
-# Micro-services with Swagger, NodeJS, Express Framework
+# Micro-services:
 
-- https://github.com/kukuu/Microservice-NodeJS/tree/master/microservices  
+i. Swagger, NodeJS, Express Framework - https://github.com/kukuu/Microservice-NodeJS/tree/master/microservices 
+
+ii. Cinema - https://github.com/kukuu/cinema-microservice
 
 
 # System Design and Architecture
@@ -231,6 +233,10 @@ Selenium - https://www.youtube.com/watch?v=_JNeiGbAgL4
 - https://github.com/kukuu/react-apollo-graphql
 
 - https://www.youtube.com/watch?v=wxbHTCpPxpw (AWS AppSync)
+
+7. Gatsby v NextJS 
+
+- https://www.youtube.com/watch?v=xC4Yq_mXvPM
 
 7. Testing
 
