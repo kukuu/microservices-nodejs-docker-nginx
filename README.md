@@ -278,7 +278,31 @@ Enzyme and Jest - https://www.youtube.com/watch?v=u5XTnNBotqs
 
 - https://www.youtube.com/watch?v=va-JzrmaiUM
 
+
+# Git best practices
+https://www.youtube.com/watch?v=SWYqp7iY_Tc 
+https://www.youtube.com/watch?v=3RjQznt-8kE 
+Git - https://www.youtube.com/watch?v=MFtsLRphqDM 
+
+# API Clients
+
+https://youtu.be/TbVtliFXOOY
+
+Axios:
+
+- https://github.com/axios/axios
+
+Postman:
+
+- https://www.postman.com/
+
+Apigee:
+
+i. https://www.youtube.com/watch?v=TK1CVmP4Rvs 
+
+ii. https://docs.apigee.com/
+
 # Algorithm
 
-- https://github.com/kukuu/algorithms/blob/master/algorithms.md
+- https://github.com/kukuu/algorithms/blob/master/algorithms.md 
 
