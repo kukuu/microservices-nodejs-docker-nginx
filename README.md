@@ -234,6 +234,8 @@ iv. Best Practices (How not to)  -  https://www.youtube.com/watch?v=9H3eICDz4-4
 
 TDD - https://github.com/kukuu/TDD-setup-Node-ES6-Gulp-Mocha
 
+Test snippets - https://github.com/kukuu/TDD-setup-Node-ES6-Gulp-Mocha
+
 Tolerance and High Availability - https://github.com/kukuu/AGILITY/tree/master/AWS-AS 
 
 Indicators - https://github.com/kukuu/performance-optimisation-indicators 
