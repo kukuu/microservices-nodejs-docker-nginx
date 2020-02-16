@@ -211,7 +211,11 @@ ii. Cinema - https://github.com/kukuu/cinema-microservice
 
 iii. Making a Microservice - https://www.youtube.com/watch?v=aWxR05rUoto
 
-iv. Best Practices (How not to)  -  https://www.youtube.com/watch?v=9H3eICDz4-4
+iv. Best Practices  
+
+-  https://www.youtube.com/watch?v=9H3eICDz4-4
+
+- https://www.youtube.com/watch?v=j6ow-UemzBc
 
 
 
