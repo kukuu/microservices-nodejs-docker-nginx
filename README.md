@@ -280,7 +280,11 @@ Containerisation - https://github.com/kukuu/Microservice-NodeJS/blob/master/kube
 
 7. Gatsby v NextJS 
 
-- https://www.youtube.com/watch?v=xC4Yq_mXvPM
+ Fine lining - https://www.youtube.com/watch?v=xC4Yq_mXvPM
+ 
+ Gatsby - https://github.com/kukuu/GatsbyJS
+ 
+ NextJS - https://github.com/kukuu/next-rematch
 
 8. Formik for handling FORM states and validation
 
