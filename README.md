@@ -230,11 +230,7 @@ iv. Best Practices (How not to)  -  https://www.youtube.com/watch?v=9H3eICDz4-4
 
 - https://github.com/kukuu/CI-CD-pipeline-with-Jenkins 
 
-# Performnce, Testing,  Scaling and Elasticity
-
-TDD - https://github.com/kukuu/TDD-setup-Node-ES6-Gulp-Mocha
-
-Test snippets - https://github.com/kukuu/TDD-setup-Node-ES6-Gulp-Mocha
+# Performnce, Scaling and Elasticity
 
 Tolerance and High Availability - https://github.com/kukuu/AGILITY/tree/master/AWS-AS 
 
@@ -242,7 +238,19 @@ Indicators - https://github.com/kukuu/performance-optimisation-indicators
 
 Containerisation - https://github.com/kukuu/Microservice-NodeJS/blob/master/kubernetes/1.png 
 
-Selenium - https://www.youtube.com/watch?v=_JNeiGbAgL4
+# Testing
+
+- TDD node setup - https://github.com/kukuu/TDD-setup-Node-ES6-Gulp-Mocha
+
+- Test snippets:  https://github.com/kukuu/algorithms/tree/master/algorithms/tdd-test-snippets
+
+- React Testing Library:   https://github.com/testing-library 
+
+- Unt Testing with Enzyme and Jest:  https://www.youtube.com/watch?v=u5XTnNBotqs
+
+- e2e testing with Cypress:  https://www.youtube.com/watch?v=7N63cMKosIE&feature=youtu.be
+
+- Selenium: https://www.youtube.com/watch?v=_JNeiGbAgL4
 
 # REACT
 
@@ -274,15 +282,6 @@ Selenium - https://www.youtube.com/watch?v=_JNeiGbAgL4
 
 - https://www.youtube.com/watch?v=bttOjT0jfzs
 
-# Testing
-
-- TDD:  https://github.com/kukuu/algorithms/tree/master/algorithms/tdd-test-snippets
-
-- React Testing Library:   https://github.com/testing-library 
-
-- Unt Testing with Enzyme and Jest:  https://www.youtube.com/watch?v=u5XTnNBotqs
-
-- e2e testing with Cypress:  https://www.youtube.com/watch?v=7N63cMKosIE&feature=youtu.be
 
 
 # Storybook
