@@ -272,11 +272,13 @@ Selenium - https://www.youtube.com/watch?v=_JNeiGbAgL4
 
 - https://www.youtube.com/watch?v=bttOjT0jfzs
 
-9. Testing
+# Testing
 
-Library - https://github.com/testing-library 
+- React Testing Library:   https://github.com/testing-library 
 
-Enzyme and Jest - https://www.youtube.com/watch?v=u5XTnNBotqs
+- Unt Testing with Enzyme and Jest:  https://www.youtube.com/watch?v=u5XTnNBotqs
+
+- e2e testing with Cypress:  https://www.youtube.com/watch?v=7N63cMKosIE&feature=youtu.be
 
 
 # Storybook
