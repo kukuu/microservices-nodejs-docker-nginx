@@ -289,8 +289,7 @@ Containerisation - https://github.com/kukuu/Microservice-NodeJS/blob/master/kube
  - https://www.youtube.com/watch?v=b2H7fWhQcdE
  
  NextJS:
- 
- - https://github.com/kukuu/NextJS/blob/master/README.md
+ -  https://github.com/kukuu/NextJS
  
  - https://github.com/kukuu/next-rematch 
  
