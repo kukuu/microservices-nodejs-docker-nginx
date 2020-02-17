@@ -290,6 +290,22 @@ localStorage,setItem('token', token);
 localStorage,setItem('refreshToken', refreshToken );
 ```
 
+```
+//Fowarding token to homepage for periodic authorization checks
+//Attaching to middleware
+
+networkInterface.use([{
+  applyMiddleware(req, next) {
+    if (!req.options.headers) {
+      req.options.headers = {};
+    }
+    req.options.headers['x-token'] = localStorage.getItem('token');
+    req.options.headers['x-refresh-token'] = localStorage.getItem('refreshToken');
+    next();
+  }
+}]);
+
+``
 - https://www.youtube.com/watch?v=01Dc5mtm1wQ (Node.js, GraphQL/Apollo Client and mutation to create users-registration form)
 
 - https://www.youtube.com/watch?v=wxbHTCpPxpw (AWS AppSync)
