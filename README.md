@@ -328,3 +328,7 @@ ii. https://docs.apigee.com/
 
 - https://github.com/kukuu/algorithms/blob/master/algorithms.md 
 
+# Code review tips
+
+https://github.com/kukuu/code-review-tips/blob/master/code-review-tips.md
+
