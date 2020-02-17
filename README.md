@@ -286,6 +286,8 @@ const { token, refreshToken } = response.data.login
    console.log(response)
 }
 
+localStorage,setItem('token', token);
+localStorage,setItem('refreshToken', refreshToken );
 ```
 
 - https://www.youtube.com/watch?v=01Dc5mtm1wQ (Node.js, GraphQL/Apollo Client and mutation to create users-registration form)
