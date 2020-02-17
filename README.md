@@ -274,7 +274,9 @@ Containerisation - https://github.com/kukuu/Microservice-NodeJS/blob/master/kube
 
 - https://github.com/kukuu/react-apollo-graphql
 
-- https://www.youtube.com/watch?v=M4kk3Ac0WSM (Login)
+- https://www.youtube.com/watch?v=M4kk3Ac0WSM (Login - GraphQL, JWT and  LocalStorage)
+
+- https://www.youtube.com/watch?v=01Dc5mtm1wQ (Node.js, GraphQL/Apollo Client and mutation to create users-registration form)
 
 - https://www.youtube.com/watch?v=wxbHTCpPxpw (AWS AppSync)
 
