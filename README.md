@@ -277,7 +277,7 @@ Containerisation - https://github.com/kukuu/Microservice-NodeJS/blob/master/kube
 - https://www.youtube.com/watch?v=M4kk3Ac0WSM (Login - GraphQL[Mutation], JWT and  LocalStorage)
 
 ```
-Obtaining token:
+//Obtaining token:
 onSubmit =  async () => {
    const response = await this.props.mutate ({
      variables: this.state
