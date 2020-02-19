@@ -3,7 +3,7 @@ const express = require("express");
 
 //The SEARCH API is a cross cutting  model , without its own domain. Hasn't got a DB. We fetch from the network
 //from both books and video models
-//This duplication of models wil be refactored into an npm module and imported back for integrity and consistency
+//This duplication of models wil be refactored into an npm module and shared as an import back - integrity and consistency
 const Video = require("./models/video_model");
 const Book = require("./models/book_model");
 const app = express();//instantiate express => create app
