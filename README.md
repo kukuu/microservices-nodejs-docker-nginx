@@ -254,6 +254,8 @@ Containerisation - https://github.com/kukuu/Microservice-NodeJS/blob/master/kube
 
 - Unt Testing with Enzyme and Jest:  https://www.youtube.com/watch?v=u5XTnNBotqs
 
+- JavaScript Unit Testing With Mocha JS & Chai:  https://www.youtube.com/watch?v=MLTRHc5dk6s
+
 - e2e testing with Cypress:  https://www.youtube.com/watch?v=7N63cMKosIE&feature=youtu.be
 
 - Selenium: https://www.youtube.com/watch?v=_JNeiGbAgL4
