@@ -335,7 +335,9 @@ networkInterface.use([{
 
 - https://www.youtube.com/watch?v=bttOjT0jfzs
 
-9. Shopping Cart - https://github.com/kukuu/react-redux-shopping-cart
+9. Shopping Cart - https://github.com/kukuu/react-redux-shopping-cart 
+
+10. Color API - https://github.com/kukuu/color-API-REACT-REDUX-
 
 
 # TypeScript
