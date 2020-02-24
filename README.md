@@ -339,6 +339,7 @@ networkInterface.use([{
 
 10. Color API - https://github.com/kukuu/color-API-REACT-REDUX-
 
+11. Run time utility search application - https://github.com/kukuu/react-redux-run-time-search
 
 # TypeScript
 
