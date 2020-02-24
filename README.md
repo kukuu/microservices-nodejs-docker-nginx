@@ -339,7 +339,11 @@ networkInterface.use([{
 
 10. Fetching API  data - https://github.com/kukuu/react-api-fetch-data
 
-11. Run time utility search application - https://github.com/kukuu/react-redux-run-time-search
+11. Run time utility search application - https://github.com/kukuu/react-redux-run-time-search 
+
+12. REACT conditional rendering - https://www.robinwieruch.de/conditional-rendering-react/ 
+
+13. REACT Hooks - https://github.com/kukuu/react-hooks
 
 # TypeScript
 
