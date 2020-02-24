@@ -336,6 +336,9 @@ networkInterface.use([{
 - https://www.youtube.com/watch?v=bttOjT0jfzs
 
 
+# TypeScript
+
+https://www.youtube.com/watch?v=xqYD8QXJX9U
 
 # Storybook
  
