@@ -2,6 +2,7 @@
 
 The model and data composition of the algorithm in the book and video services are adaptable to each other. The SEARCH is a cross cutting service that relies on both other services.
 
+
 Problems with previous platform:
 
 1. Monolithic
@@ -47,6 +48,11 @@ The SEARCH module uses a cross cutting pattern implementation to improve perform
 #### Video Service 
 #### Web Service
 #### SEARCH Service
+
+
+## Architecture
+
+https://github.com/kukuu/microservices/blob/master/architectures/microservices-4.png
 
 https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
 
