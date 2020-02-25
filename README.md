@@ -54,6 +54,8 @@ The SEARCH module uses a cross cutting pattern implementation to improve perform
 
 https://github.com/kukuu/microservices/blob/master/architectures/microservices-4.png
 
+https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/microservice-back-end-hub-architecture
+
 https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
 
 ## Connecting the micro-services
@@ -66,10 +68,6 @@ https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md
 4. https://github.com/kukuu/Microservice-NodeJS/blob/master/microservice-snapshots/4-nginx-in-action.png 
 5. https://github.com/kukuu/Microservice-NodeJS/blob/master/microservice-snapshots/5-nginx-in-action.png
 
-
-### Backend Hub Architecture
-
-- https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/microservice-back-end-hub-architecture
 
 ### Running Docker Containers & Docker  Compose
  
