@@ -1,6 +1,6 @@
 # Monolith to microservice
 
-Note any changes should not change the user experience. Just the architecture.
+Note any changes should not change the user experience. Just the architecture. When refactoring from monolithic to microservices.
 
 1. https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
 
