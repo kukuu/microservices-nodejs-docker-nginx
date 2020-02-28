@@ -267,13 +267,19 @@ Containerisation - https://github.com/kukuu/Microservice-NodeJS/blob/master/kube
 
 - Selenium: https://www.youtube.com/watch?v=_JNeiGbAgL4
 
+- BDD
+
 # REACT
 
 1. Architecture - https://github.com/kukuu/redux-react/tree/master/architecture 
 
 2. REDUX & GraphQL - https://github.com/kukuu/react-redux-graphql-express
 
-3. Handling API calls - https://github.com/kukuu/redux-react/blob/master/making-http/js/actions.js/index.js
+3. Handling API calls 
+
+- https://github.com/kukuu/redux-react/blob/master/making-http/js/actions.js/index.js 
+
+- https://www.youtube.com/watch?v=hzLDsxPGctY
 
 4. Working with API - https://github.com/kukuu/redux-react/tree/master/react-redux-color-api
 
