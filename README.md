@@ -321,7 +321,9 @@ networkInterface.use([{
 
 7. Gatsby v NextJS 
 
- Fine lining - https://www.youtube.com/watch?v=xC4Yq_mXvPM
+i. https://medium.com/javascript-in-plain-english/server-side-rendering-for-websites-or-gatsby-vs-next-js-6caed9a79e16
+
+ii.  https://www.youtube.com/watch?v=xC4Yq_mXvPM
  
  Gatsby: 
  
