@@ -348,7 +348,7 @@ networkInterface.use([{
 
 11. Run time utility search application - https://github.com/kukuu/react-redux-run-time-search 
 
-12. REACT conditional rendering - https://www.robinwieruch.de/conditional-rendering-react/ 
+12. Handling multiple FORM inputs with single OnChange handler - https://github.com/kukuu/algorithms/blob/master/algorithms/react-handling-form-inputs.md
 
 13. REACT Hooks - https://github.com/kukuu/react-hooks
 
