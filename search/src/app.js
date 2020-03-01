@@ -23,8 +23,11 @@ app.get("/api/v1/search", async (req, res ) => {
 	//and then grab a Promise All
 	const videosPromise = Video.find({});
 	const booksPromise = Book.find({});
-	//de-structure
+	//de-structure. Combine both requests and store in a variable - promis
 	const promises = [ videosPromise, booksPromise  ]
+	
+	
+	//store result of the combined request in an array using await and Promis.all()
 	const [ videos, books ] = await Promise.all(promises);
 
 	
