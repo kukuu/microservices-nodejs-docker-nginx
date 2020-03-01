@@ -4,7 +4,9 @@ Note any changes should not change the user experience. Just the architecture. W
 
 1. https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
 
-2. https://github.com/kukuu/AGILITY/blob/master/difference-between-monolithic-and-microservices-architecture-1.png
+2. https://github.com/kukuu/AGILITY/blob/master/difference-between-monolithic-and-microservices-architecture-1.png 
+
+3. https://www.youtube.com/watch?v=9H3eICDz4-4
 
 ## Strategy:
 
