@@ -39,10 +39,10 @@ Motivation:
 ```
 Snippet:
 
-```
+
 ![snippet](https://github.com/kukuu/microservices-nodejs-docker-nginx/blob/master/microservice-back-end-hub-architecture/microservice-snippet.png) 
 
-```
+
 The new system is a next generation platform   that enhances the core features of the product identified. This includes improved data harvesting and search discovery
 
 The SEARCH module uses a cross cutting pattern implementation to improve performance. resducing request time. By cross-cutting, the SEARCH API exploits both domains (book and video) without its own. Hasn't got a DB. We fetch from the network (Network first strategy) from both books and video models.
