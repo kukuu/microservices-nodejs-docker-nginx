@@ -62,7 +62,7 @@ https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/microserv
 
 https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
 
-![complexity]() 
+![complexity](https://github.com/kukuu/microservices-nodejs-docker-nginx/blob/master/microservice-back-end-hub-architecture/microservice-complexity.png) 
 
 ## Connecting the micro-services
 ### Bumping into CORS
