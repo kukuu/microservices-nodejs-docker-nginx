@@ -36,8 +36,7 @@ Motivation:
 
 7. Feature addition/enrichment
 
-``
-`
+```
 Snippet:
 
 ```
