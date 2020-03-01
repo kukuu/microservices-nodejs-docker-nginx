@@ -55,11 +55,14 @@ https://github.com/kukuu/Microservice-NodeJS
 
 ## Architecture
 
-https://github.com/kukuu/microservices/blob/master/architectures/microservices-4.png
+
+![overview](https://github.com/kukuu/microservices/blob/master/architectures/microservices-4.png) 
 
 https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/microservice-back-end-hub-architecture
 
 https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
+
+![complexity]() 
 
 ## Connecting the micro-services
 ### Bumping into CORS
@@ -267,7 +270,11 @@ Containerisation - https://github.com/kukuu/Microservice-NodeJS/blob/master/kube
 
 - Selenium: https://www.youtube.com/watch?v=_JNeiGbAgL4
 
-- BDD
+- BDD 
+
+i. https://github.com/kukuu/CI-CD-pipeline-with-Jenkins/tree/master/BDD 
+
+ii. https://github.com/kukuu/AGILITY/blob/master/BDD.md
 
 # REACT
 
