@@ -438,3 +438,15 @@ ii. https://docs.apigee.com/
 
 https://github.com/kukuu/code-review-tips/blob/master/code-review-tips.md
 
+# What makes a good software 
+
+https://github.com/kukuu/AGILITY/blob/master/white-paper/what-makes-a-good-software.png
+
+# Test pyramid
+
+https://github.com/kukuu/AGILITY/blob/master/white-paper/architectural-solutions/test-pyramid-coverage%20(1).jpg
+
+# Agile-Testing 
+
+https://github.com/kukuu/AGILITY/blob/master/software-testing-life-cycle.md
+
