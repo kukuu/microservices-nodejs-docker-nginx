@@ -55,7 +55,9 @@ The SEARCH module uses a cross cutting pattern implementation to improve perform
 
 ## The Challenge
 
-https://github.com/kukuu/Microservice-NodeJS
+Greenfield -  https://github.com/kukuu/Microservice-NodeJS 
+
+Migration - https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/
 
 ### How to convert monolithic to Microservices
 
