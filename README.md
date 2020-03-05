@@ -48,19 +48,22 @@ The new system is a next generation platform   that enhances the core features o
 The SEARCH module uses a cross cutting pattern implementation to improve performance. reducing request time. By cross-cutting, the SEARCH API exploits both domains (book and video) without its own. Hasn't got a DB. We fetch from the network (Network first strategy) from both books and video models.
 
 ## Services
+## A
 #### Book Service  - https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/books
 #### Video Service - https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/video 
 #### Web Service - https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/web/public
 #### SEARCH Service - https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/search/src
 
-## The Challenge
+## B
+https://github.com/kukuu/Microservice-NodeJS 
 
-Greenfield -  https://github.com/kukuu/Microservice-NodeJS 
+## The Challenges
 
-Migration - https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/
+https://github.com/kukuu/Microservice-NodeJS/blob/master/README.md
 
-### How to convert monolithic to Microservices
+## How to convert monolithic to Microservices
 
+Refactoring a Monolith into Microservices - https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/
 ```
 1. Warm Up with a Simple and Fairly Decoupled Capability. 
    i.e Authentication and then Profile
