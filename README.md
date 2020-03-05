@@ -318,6 +318,8 @@ ii. https://github.com/kukuu/AGILITY/blob/master/BDD.md
 
 - https://www.youtube.com/watch?v=hzLDsxPGctY
 
+- https://www.youtube.com/watch?v=AiTS9YMd6Is (fetching from multi-dimensional arrays)
+
 4. Working with API - https://github.com/kukuu/redux-react/tree/master/react-redux-color-api
 
 5. REACT Native - https://github.com/kukuu/react-native
