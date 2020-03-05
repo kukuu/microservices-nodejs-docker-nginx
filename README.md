@@ -451,5 +451,8 @@ https://github.com/kukuu/AGILITY/blob/master/white-paper/architectural-solutions
 
 # Agile-Testing 
 
-https://github.com/kukuu/AGILITY/blob/master/software-testing-life-cycle.md
+https://github.com/kukuu/AGILITY/blob/master/software-testing-life-cycle.md 
+
+# Session and Token based authentication - when to use and scalability
+https://dev.to/thecodearcher/what-really-is-the-difference-between-session-and-token-based-authentication-2o39
 
