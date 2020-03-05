@@ -454,7 +454,6 @@ https://github.com/kukuu/AGILITY/blob/master/white-paper/architectural-solutions
 https://github.com/kukuu/AGILITY/blob/master/software-testing-life-cycle.md 
 
 # Session and Token based authentication - when to use and scalability
-https://dev.to/thecodearcher/what-really-is-the-difference-between-session-and-token-based-authentication-2o39 
 
 ## Implicit authentication 
 
@@ -477,3 +476,7 @@ JSON Web Token (JWT) Access Tokens conform to the JSON Web Token standard and 
 Access Tokens issued for the Auth0 Management API and Access Tokens issued for any custom API that you have registered with Auth0 will follow the JSON Web Token (JWT) standard, which means that their basic structure conforms to the typical JWT Structure, and they contain standard JWT Claims asserted about the token itself.
 lifetime -24 hrs
 
+https://dev.to/thecodearcher/what-really-is-the-difference-between-session-and-token-based-authentication-2o39 
+
+## RabbitMQ v KAFKA
+https://www.upsolver.com/blog/kafka-versus-rabbitmq-architecture-performance-use-case
