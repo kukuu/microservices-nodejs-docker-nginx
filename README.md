@@ -454,5 +454,26 @@ https://github.com/kukuu/AGILITY/blob/master/white-paper/architectural-solutions
 https://github.com/kukuu/AGILITY/blob/master/software-testing-life-cycle.md 
 
 # Session and Token based authentication - when to use and scalability
-https://dev.to/thecodearcher/what-really-is-the-difference-between-session-and-token-based-authentication-2o39
+https://dev.to/thecodearcher/what-really-is-the-difference-between-session-and-token-based-authentication-2o39 
+
+## Implicit authentication 
+
+IA is a technique that allows the smart device to recognize its owner by being acquainted with his/her behaviors. It is a technique that uses machine learning algorithms to learn user behavior through various sensors on the smart devices and achieve user identification. Lifetime - 2 hours
+
+## Opaque Access Token 
+
+Opaque Access Tokens are tokens whose format you cannot access.They are  tokens in a proprietary format that typically contain some identifier to information in a server’s persistent storage. To validate an opaque token, the recipient of the token needs to call the server that issued the token.
+Opaque Access Tokens issued by Auth0 can be used with the /userinfo endpoint to return a user's profile.
+
+## Token ID 
+
+Tokens are used in token-based authentication to cache user profile information and provide it to a client application, thereby providing better performance and experience. The application receives an ID Token after a user successfully authenticates, then consumes the ID Token and extracts user information from it, which it can then use to personalize the user's experience.
+For example, let's say you have built a regular web application, registered it with Auth0, and have configured it to allow a user to log in using Google. Once a user logs in to your app, you can use the ID Token to gather information, such as name and email address, which you can then use to auto-generate and send a personalized welcome email.
+lifetime 10hrs
+
+## JWT 
+
+JSON Web Token (JWT) Access Tokens conform to the JSON Web Token standard and contain information about an entity in the form of claims. They are self-contained in that it is not necessary for the recipient to call a server to validate the token.
+Access Tokens issued for the Auth0 Management API and Access Tokens issued for any custom API that you have registered with Auth0 will follow the JSON Web Token (JWT) standard, which means that their basic structure conforms to the typical JWT Structure, and they contain standard JWT Claims asserted about the token itself.
+lifetime -24 hrs
 
