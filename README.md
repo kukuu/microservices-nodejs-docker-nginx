@@ -480,5 +480,15 @@ lifetime -24 hrs
 
 https://dev.to/thecodearcher/what-really-is-the-difference-between-session-and-token-based-authentication-2o39 
 
-## RabbitMQ v KAFKA
+## Messaging
+
+### Notification
+
+https://github.com/kukuu/nodejs-notification-service
+
+### Backend Hub Architecture 
+
+https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/microservice-back-end-hub-architecture
+
+### RabbitMQ v KAFKA
 https://www.upsolver.com/blog/kafka-versus-rabbitmq-architecture-performance-use-case
