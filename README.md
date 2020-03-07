@@ -399,7 +399,9 @@ ii.  https://www.youtube.com/watch?v=xC4Yq_mXvPM
 
 13. REACT Hooks - https://github.com/kukuu/react-hooks
 
-14. Conditional rendering - https://github.com/kukuu/algorithms/blob/master/algorithms/react/react-conditional-rendering.md 
+14. Conditional rendering - https://github.com/kukuu/algorithms/blob/master/algorithms/react/react-conditional-rendering.md
+
+15. Working with Multi-diensional array - https://codepen.io/mochiron/pen/jrymLG
 
 # TypeScript
 
