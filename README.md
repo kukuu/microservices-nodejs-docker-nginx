@@ -308,6 +308,8 @@ ii. https://github.com/kukuu/AGILITY/blob/master/BDD.md
 
 # REACT
 
+0. Best practices - https://www.youtube.com/watch?v=oZbTqEmQpDo
+
 1. Architecture - https://github.com/kukuu/redux-react/tree/master/architecture 
 
 2. REDUX & GraphQL - https://github.com/kukuu/react-redux-graphql-express
