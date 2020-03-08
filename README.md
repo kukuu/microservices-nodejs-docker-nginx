@@ -505,4 +505,8 @@ https://www.upsolver.com/blog/kafka-versus-rabbitmq-architecture-performance-use
 
 ## Data Mining
 
-MongoDB - https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/mongo-db
+MongoDB - https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/mongo-db 
+
+## Digital Rights Management
+
+https://github.com/kukuu/drm
