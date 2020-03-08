@@ -502,3 +502,7 @@ https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/microserv
 
 ### RabbitMQ v KAFKA
 https://www.upsolver.com/blog/kafka-versus-rabbitmq-architecture-performance-use-case
+
+## Data Mining
+
+MongoDB - https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/mongo-db
