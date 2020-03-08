@@ -1,4 +1,4 @@
-# Microservices with Node, Docker and Nginx 
+# Microservices with Node, Docker and NginX
 
 The model and data composition of the algorithm in the book and video services are adaptable to each other. The SEARCH is a cross cutting service that relies on both other services.
 
@@ -48,6 +48,7 @@ The new system is a next generation platform   that enhances the core features o
 The SEARCH module uses a cross cutting pattern implementation to improve performance. reducing request time. By cross-cutting, the SEARCH API exploits both domains (book and video) without its own. Hasn't got a DB. We fetch from the network (Network first strategy) from both books and video models.
 
 ## Services
+
 ## A
 #### Book Service  - https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/books
 #### Video Service - https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/video 
@@ -243,7 +244,7 @@ services:
           - videos
       
 ```
-# ...Micro-services:
+# ....Micro-services:
 
 i. Swagger, NodeJS, Express Framework - https://github.com/kukuu/Microservice-NodeJS/tree/master/microservices 
 
@@ -282,7 +283,7 @@ Indicators - https://github.com/kukuu/performance-optimisation-indicators
 
 Containerisation - https://github.com/kukuu/Microservice-NodeJS/blob/master/kubernetes/1.png 
 
-# Testing
+# TDD
 
 - TDD node setup - https://github.com/kukuu/TDD-setup-Node-ES6-Gulp-Mocha
 
