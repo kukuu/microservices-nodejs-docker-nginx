@@ -10,7 +10,7 @@ Main features- document oriented, adhoc queries(on index, ranges, regular expres
 
 ## Document-oriented
 
-   Instead of taking a business subject and breaking it up into multiple relational structures, MongoDB can store the business subject in the minimal number of documents. For example, instead of storing title and author information in two distinct relational structures, title, author, and other title-related information can all be stored in a single document called Book, which is much more intuitive and usually easier to work with.[5]
+   Instead of taking a business subject and breaking it up into multiple relational structures, MongoDB can store the business subject in the minimal number of documents. For example, instead of storing title and author information in two distinct relational structures, title, author, and other title-related information can all be stored in a single document called Book, which is much more intuitive and usually easier to work with.
 
 ## Ad hoc queries
 
@@ -26,7 +26,7 @@ Main features- document oriented, adhoc queries(on index, ranges, regular expres
 
 ## Load balancing
 
-   MongoDB scales horizontally using sharding.[7] The user chooses a shard key, which determines how the data in a collection will be distributed. The data is split into ranges (based on the shard key) and distributed across multiple shards. (A shard is a master with one or more slaves.)
+   MongoDB scales horizontally using sharding. The user chooses a shard key, which determines how the data in a collection will be distributed. The data is split into ranges (based on the shard key) and distributed across multiple shards. (A shard is a master with one or more slaves.)
 
    MongoDB can run over multiple servers, balancing the load and/or duplicating data to keep the system up and running in case of hardware failure. Automatic configuration is easy to deploy, and new machines can be added to a running database.
 
@@ -34,7 +34,7 @@ Main features- document oriented, adhoc queries(on index, ranges, regular expres
 
    MongoDB can be used as a file system, taking advantage of load balancing and data replication features over multiple machines for storing files.
 
-   This function, called GridFS,[8] is included with MongoDB drivers and available with no difficulty for development languages (see "Language Support" for a list of supported languages). MongoDB exposes functions for file manipulation and content to developers. GridFS is used, for example, in plugins for NGINX[9] and lighttpd.[10] Instead of storing a file in a single document, GridFS divides a file into parts, or chunks, and stores each of those chunks as a separate document.[11]
+   This function, called GridFS, is included with MongoDB drivers and available with no difficulty for development languages (see "Language Support" for a list of supported languages). MongoDB exposes functions for file manipulation and content to developers. GridFS is used, for example, in plugins for NGINX and lighttpd.[10] Instead of storing a file in a single document, GridFS divides a file into parts, or chunks, and stores each of those chunks as a separate document.
 
    In a multi-machine MongoDB system, files can be distributed and copied multiple times between machines transparently, thus effectively creating a load-balanced and fault-tolerant system.
 
@@ -81,12 +81,18 @@ db.contactlist.find().pretty()
 
 ## Resources
 
-https://www.youtube.com/watch?v=OrNUnlB4AmQ 
-https://www.youtube.com/watch?v=2ajlfURobd8 
-https://www.youtube.com/watch?v=h1hLeGMdBv4
-http://www.learn-with-video-tutorials.com
-https://docs.mongodb.org/getting-started/shell/
-https://docs.mongodb.org/getting-started/shell/introduction/
-you tube mongodb example working
-https://www.youtube.com/watch?v=THCiObgXxTg
-https://www.youtube.com/watch?v=h1hLeGMdBv4
+1. https://www.youtube.com/watch?v=OrNUnlB4AmQ 
+
+2. https://www.youtube.com/watch?v=2ajlfURobd8 
+
+3. https://www.youtube.com/watch?v=h1hLeGMdBv4
+
+4. http://www.learn-with-video-tutorials.com
+
+5. https://docs.mongodb.org/getting-started/shell/
+
+6. https://docs.mongodb.org/getting-started/shell/introduction/
+
+7. https://www.youtube.com/watch?v=THCiObgXxTg
+
+8. https://www.youtube.com/watch?v=h1hLeGMdBv4
