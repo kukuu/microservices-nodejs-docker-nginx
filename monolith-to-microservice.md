@@ -2,9 +2,9 @@
 
 Note any changes should not change the user experience. Just the architecture. When refactoring from monolithic to microservices.
 
-## Hot Tips
+## Hot Tips - Refactoring a Monolith into Microservices
 
-Refactoring a Monolith into Microservices - https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/
+
 ```
 1. Warm Up with a Simple and Fairly Decoupled Capability. 
    i.e Authentication and then Profile
