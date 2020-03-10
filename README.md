@@ -186,6 +186,8 @@ server {
 
 ### Managing fleet of microservices with Docker Compose
 
+SEARCH is a cross cutting service, as it utilised the model and data harvesting from BOOK and VIDEO services
+
 docker-compose.yml
 
 ```
