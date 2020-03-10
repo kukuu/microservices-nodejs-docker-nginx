@@ -2,11 +2,27 @@
 
 Note any changes should not change the user experience. Just the architecture. When refactoring from monolithic to microservices.
 
-1. https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
+## Hot Tips
 
-2. https://github.com/kukuu/AGILITY/blob/master/difference-between-monolithic-and-microservices-architecture-1.png 
+Refactoring a Monolith into Microservices - https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/
+```
+1. Warm Up with a Simple and Fairly Decoupled Capability. 
+   i.e Authentication and then Profile
 
-3. https://www.youtube.com/watch?v=9H3eICDz4-4
+2. Minimize Dependency Back to the Monolith. i.e Buying and promotion. 
+   Buying has dependencies including promotion. Decouple promotions from buying.
+
+3. Split Sticky Capabilities Early.
+
+4. Decouple Vertically and Release the Data Early.
+
+5. Decouple What is Important to the Business and Changes Frequently.
+
+6. Decouple Capability and not Code.
+
+7. Go Macro First, then Micro.
+
+```
 
 ## Strategy:
 
@@ -65,3 +81,12 @@ i. JSON as exchange format and
 
 ii HTTP protocol
 
+## Resources
+
+1. https://github.com/kukuu/microservices-nodejs-docker-nginx/blob/master/README.md
+
+2. https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
+
+3. https://github.com/kukuu/AGILITY/blob/master/difference-between-monolithic-and-microservices-architecture-1.png 
+
+4. https://www.youtube.com/watch?v=9H3eICDz4-4
