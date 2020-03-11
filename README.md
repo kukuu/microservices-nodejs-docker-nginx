@@ -17,7 +17,7 @@ Problems with previous platform:
 
 6. Not scalable
 
-7. Minimum log management and tracking - resulting in countless hours of debugging.
+7. Minimum log management and tracking - resulting in countless hours of debugging and trouble shooting.
 
 Motivation: 
 
