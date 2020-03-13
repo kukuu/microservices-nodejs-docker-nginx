@@ -517,3 +517,7 @@ MongoDB - https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master
 ## Digital Rights Management
 
 https://github.com/kukuu/drm
+
+
+# The Twelfth-Factor App - Best prractice, delivering Software as a Service
+https://12factor.net/
