@@ -1,4 +1,4 @@
-# Microservices with Node, Docker and NginX
+# Microservices with Node, Docker, MongoDB and NginX
 
 The model and data composition of the algorithm in the book and video services are adaptable to each other. The SEARCH is a cross cutting service that relies on both other services.
 
