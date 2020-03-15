@@ -523,5 +523,9 @@ MongoDB - https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master
 https://github.com/kukuu/drm
 
 
-# The Twelfth-Factor App - Best prractice, delivering Software as a Service
+# The Twelfth-Factor App - delivering Software as a Service
 https://12factor.net/
+
+# Kubernetes 
+
+- https://github.com/kukuu/kubernetes
