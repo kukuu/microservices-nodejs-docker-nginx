@@ -414,6 +414,10 @@ ii.  https://www.youtube.com/watch?v=xC4Yq_mXvPM
 
 - https://www.youtube.com/watch?v=hzLDsxPGctY
 
+16. Adding Firebase to your REACT Native App
+
+- https://www.youtube.com/watch?v=KnwfK807Mgc
+
 # TypeScript
 
 https://www.youtube.com/watch?v=xqYD8QXJX9U
