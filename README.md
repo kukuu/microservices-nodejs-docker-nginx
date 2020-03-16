@@ -528,4 +528,10 @@ https://12factor.net/
 
 # Kubernetes 
 
-- https://github.com/kukuu/kubernetes
+- https://github.com/kukuu/kubernetes 
+
+# Notification 
+
+Push notification with nodeJS and Service Worker - https://github.com/kukuu/nodejs-notification-service
+
+Data Analytics plays an important role in helping us understand the users habits/behavior on the digital platform. For example: Amazon Prime/ Netflix/ hotstar do a great job of personalizing their push notifications. They use push notifications to let users know when their favorite Lounges have new features or shows/movies are available. They also analyze the type of content you are watching or the shows you follow and then recommend similar content to you.
