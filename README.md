@@ -110,7 +110,7 @@ https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md
  
  Steps:
  
- 1. Mapp application port to Docker
+ 1. Map application port to Docker
  
  2. Connect Docker to MongoDB
  
