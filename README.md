@@ -501,11 +501,16 @@ lifetime -24 hrs
 
 https://dev.to/thecodearcher/what-really-is-the-difference-between-session-and-token-based-authentication-2o39 
 
-## Messaging
+## Notification / Messaging
 
-### Notification
+Push notification with nodeJS and Service Worker - https://github.com/kukuu/nodejs-notification-service
 
-https://github.com/kukuu/nodejs-notification-service
+Data Analytics plays an important role in helping us understand the users habits/behavior on the digital platform. For example: Amazon Prime/ Netflix/ hotstar do a great job of personalizing their push notifications. They use push notifications to let users know when their favorite Lounges have new features or shows/movies are available. They also analyze the type of content you are watching or the shows you follow and then recommend similar content to you.
+
+
+1. Application - https://github.com/kukuu/nodejs-notification-service
+
+2. Best Practices - https://uxdesign.cc/building-a-meaningful-notification-system-for-digital-platforms-cd8555ac16dd
 
 ### Backend Hub Architecture 
 
@@ -530,8 +535,4 @@ https://12factor.net/
 
 - https://github.com/kukuu/kubernetes 
 
-# Notification 
 
-Push notification with nodeJS and Service Worker - https://github.com/kukuu/nodejs-notification-service
-
-Data Analytics plays an important role in helping us understand the users habits/behavior on the digital platform. For example: Amazon Prime/ Netflix/ hotstar do a great job of personalizing their push notifications. They use push notifications to let users know when their favorite Lounges have new features or shows/movies are available. They also analyze the type of content you are watching or the shows you follow and then recommend similar content to you.
