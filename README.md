@@ -535,4 +535,16 @@ https://12factor.net/
 
 - https://github.com/kukuu/kubernetes 
 
+# Agile and Digital Transformation
+
+- https://github.com/kukuu/AGILITY/blob/master/README.md
+
+# Agile estimation 
+
+- https://github.com/kukuu/AGILITY/blob/master/agile-estimates.md
+
+# Conflict resolution
+
+- https://employmenthero.com/blog/leadership-management/team-conflict-management/
+
 
