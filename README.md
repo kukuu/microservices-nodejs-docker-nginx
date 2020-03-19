@@ -418,7 +418,11 @@ ii.  https://www.youtube.com/watch?v=xC4Yq_mXvPM
 
 16. Adding Firebase to your REACT Native App
 
-- https://www.youtube.com/watch?v=KnwfK807Mgc
+- https://www.youtube.com/watch?v=KnwfK807Mgc 
+
+17. REACT SEARCH API
+
+- https://github.com/kukuu/react-search-API
 
 # TypeScript
 
