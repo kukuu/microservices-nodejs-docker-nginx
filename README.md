@@ -262,9 +262,11 @@ iv. Best Practices
 
 
 
-# System Design and Architecture
+# System Architectures
 
-- https://github.com/kukuu/algorithms/blob/master/system-design-architecture.md
+1. Systems Design - https://github.com/kukuu/algorithms/blob/master/system-design-architecture.md
+
+2. Architectures you should know - https://github.com/kukuu/AGILITY/blob/master/white-paper/software-architecture.md
 
 
 # CI/CD with AWS
