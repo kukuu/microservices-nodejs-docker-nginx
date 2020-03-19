@@ -624,4 +624,6 @@ https://www.gov.uk/guidance/government-design-principles
 
 # Profile 
 
-- https://github.com/kukuu/AGILITY/tree/master/profile-main
+- https://github.com/kukuu/AGILITY/tree/master/profile-main 
+
+- https://www.linkedin.com/in/alexander-adu-sarkodie-063b4b4a/
