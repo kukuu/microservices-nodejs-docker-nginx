@@ -547,7 +547,7 @@ https://12factor.net/
 
 
 
-# UK Government Design Principles and Best Practices - GDS
+# GDS (UK) Design Principles and Best Practices 
 
 Summary:
 
