@@ -543,6 +543,12 @@ https://12factor.net/
 
 # Agile estimation 
 
+- https://github.com/kukuu/AGILITY/blob/master/agile-estimates.md
+
+
+
+# UK Government Design Principles and Best Practices - GDS
+
 Summary:
 
 ```
@@ -568,13 +574,8 @@ Summary:
 
 ```
 
-- https://github.com/kukuu/AGILITY/blob/master/agile-estimates.md
-
-# UK Government Design Principles and Best Practices - GDS
-
 https://www.gov.uk/guidance/government-design-principles
 
-```
 
 
 # Conflict resolution
