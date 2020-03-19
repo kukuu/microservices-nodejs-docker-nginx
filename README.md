@@ -519,6 +519,46 @@ Data Analytics plays an important role in helping us understand the users habits
 https://github.com/kukuu/microservices-nodejs-docker-nginx/tree/master/microservice-back-end-hub-architecture
 
 ### RabbitMQ v KAFKA
+
+Apache Kafka and RabbitMQ are two open-source and commercially-supported pub/sub systems, readily adopted by enterprises. RabbitMQ is an older tool released in 2007 and was a primary component in messaging and SOA systems. Today it is also being used for streaming use cases. Kafka is a newer tool, released in 2011, which, from the onset, was built for streaming scenarios.
+
+Summmary:
+
+```
+RabbitMQ Architecture:
+
+1. General purpose message broker—uses variations of request/reply, point to point, 
+   and pub-sub communication patterns.
+
+2. Smart broker / dumb consumer model—consistent delivery of messages to consumers, 
+   at around the same speed as the broker monitors the consumer state.
+
+3. Mature platform—well supported, available for Java, client libraries, .NET, Ruby, node.js. 
+   Offers dozens of plugins. 
+
+Communication—can be synchronous or asynchronous.
+
+4. Deployment scenarios—provides distributed deployment scenarios.
+
+5. Multi-node cluster to cluster federation—does not rely on external services, 
+   however, specific cluster formation plugins can use DNS, APIs, Consul, etc.  
+
+Apache Kafka Architecture:
+
+1. High volume publish-subscribe messages and streams platform—durable, fast and scalable.
+
+2. Durable message store—like a log, run in a server cluster, which keeps streams 
+   of records in topics (categories).
+
+3. Messages—made up of a value, a key and a timestamp.
+
+4. Dumb broker / smart consumer model—does not try to track which messages are read by 
+   consumers and only keeps unread messages. Kafka keeps all messages for a set period of time.
+
+5. Requires external services to run—in some cases Apache Zookeeper.
+
+```
+
 https://www.upsolver.com/blog/kafka-versus-rabbitmq-architecture-performance-use-case
 
 ## Data Mining
