@@ -622,4 +622,6 @@ https://www.gov.uk/guidance/government-design-principles
 
 - https://employmenthero.com/blog/leadership-management/team-conflict-management/
 
+# Profile 
 
+- https://github.com/kukuu/AGILITY/tree/master/profile-main
