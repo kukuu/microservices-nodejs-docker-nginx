@@ -37,7 +37,7 @@ Motivation:
 7. Feature addition/enrichment
 
 ```
-Snippet:
+A microservice snippet:
 
 
 ![snippet](https://github.com/kukuu/microservices-nodejs-docker-nginx/blob/master/microservice-back-end-hub-architecture/microservice-snippet.png) 
