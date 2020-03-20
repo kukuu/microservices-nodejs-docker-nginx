@@ -430,6 +430,23 @@ ii.  https://www.youtube.com/watch?v=xC4Yq_mXvPM
 
 - https://www.youtube.com/watch?v=OlVkYnVXPl0
 
+18. Refactor Angular to REACT
+
+i. Convert Angular ROUTES and Components to REACT
+
+ii. cONVERT Angular SERVICES to REDUX
+
+iii. REDUX and SERVICES asssembled into API
+
+iv. Angular ROUTE (redirectTo) made to call REACT in that order not opposite. Injection into Angular
+
+v. Angular DIRECTIVES and COMPONENTS are converted to REACT using ng-REACT
+
+
+https://www.youtube.com/watch?v=bFdmhgh5x8Y
+
+
+
 # TypeScript
 
 https://www.youtube.com/watch?v=xqYD8QXJX9U
