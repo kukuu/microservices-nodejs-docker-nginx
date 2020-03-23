@@ -654,3 +654,14 @@ https://www.gov.uk/guidance/government-design-principles
 - https://github.com/kukuu/AGILITY/tree/master/profile-main 
 
 - https://www.linkedin.com/in/alexander-adu-sarkodie-063b4b4a/
+
+# Handling null, empty strings from API response
+
+
+Should an optional property of an object not be set and left empty, it is good practice to keep them in the response anyway with the null value. From my experience it makes it easier for the API clients to implement parsing, as they're not required to check whether a property actually exists or not, because it's always there, and they can simply convert the response to their custom DTO, treating null values as optional.
+
+...more: 
+
+https://softwareengineering.stackexchange.com/questions/343710/use-empty-string-null-or-remove-empty-property-in-api-request-response
+
+
