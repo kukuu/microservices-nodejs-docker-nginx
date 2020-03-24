@@ -7,7 +7,7 @@ const bodyParser = require("body-parser");// request/updating DB
 app.use(bodyParser.json());
 
 
-//Requesting  API resource - route
+//Requesting  API resource - route: root
 app.get("/", (req, res ) => {
 	res.json({ msg: "Videos Domain"})
 });
