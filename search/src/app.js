@@ -47,7 +47,6 @@ app.get("/api/v1/search", async (req, res ) => {
 	//This is when a service will not start more than one call chain
 	//search -> books|videos -> <no more calls>
 
-	//pick up slide 8
 	
 	//************************************************************************
 
