@@ -677,3 +677,15 @@ https://github.com/public-apis/public-apis
 
 https://blog.logrocket.com/building-payments-system-react-stripe/
 
+# FETCH vs AXIOS
+
+- https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5
+
+# JavaScript ES6: Classes
+
+https://medium.com/@luke_smaki/javascript-es6-classes-8a34b0a6720a
+
+# REDUX & GraphQL
+
+https://medium.com/@childsmaidment/getting-started-with-redux-and-graphql-8384b3b25c56
+
