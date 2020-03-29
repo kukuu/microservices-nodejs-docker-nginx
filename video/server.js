@@ -6,6 +6,6 @@ const mongoose = require("mongoose");
 mongoose.connect(DB_URI);
 
 app.listen(3011, () => {
-	console.log("Running on port 8060");
+	console.log("Running on port 8070");
 	console.log(".....................")
 });
