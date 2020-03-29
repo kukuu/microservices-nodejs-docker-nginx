@@ -666,5 +666,7 @@ Should an optional property of an object not be set and left empty, it is good p
 2.  https://en.wikipedia.org/wiki/Data_transfer_object
 
 
+# Public API
 
+https://github.com/public-apis/public-apis
 
