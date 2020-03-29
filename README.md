@@ -670,3 +670,7 @@ Should an optional property of an object not be set and left empty, it is good p
 
 https://github.com/public-apis/public-apis
 
+# Building a payments system with React and Stripe
+
+https://blog.logrocket.com/building-payments-system-react-stripe/
+
