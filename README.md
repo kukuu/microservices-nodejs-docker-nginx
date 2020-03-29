@@ -327,19 +327,15 @@ Fetching data:
 
 - https://github.com/kukuu/react-api-fetch-data
 
--  https://github.com/kukuu/redux-react/tree/master/react-redux-color-api
-
 - https://github.com/kukuu/redux-react/blob/master/making-http/js/actions.js/index.js 
 
-- https://www.youtube.com/watch?v=hzLDsxPGctY
-
-- https://www.youtube.com/watch?v=AiTS9YMd6Is (fetching from multi-dimensional arrays)
-
-- https://www.youtube.com/watch?v=hzLDsxPGctY 
+- https://www.youtube.com/watch?v=hzLDsxPGctY *
 
 - https://www.youtube.com/watch?v=EgGXWQEmsQ0
 
  Working with Multi-diensional array: 
+
+- https://www.youtube.com/watch?v=AiTS9YMd6Is
 
 - https://codepen.io/mochiron/pen/jrymLG 
 
