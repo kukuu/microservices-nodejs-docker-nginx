@@ -319,7 +319,13 @@ ii. https://github.com/kukuu/AGILITY/blob/master/BDD.md
 
 2. REDUX & GraphQL - https://github.com/kukuu/react-redux-graphql-express
 
-3. Handling API calls 
+3. Working with APIs 
+
+Fetching data:
+
+- https://github.com/kukuu/react-api-fetch-data
+
+-  https://github.com/kukuu/redux-react/tree/master/react-redux-color-api
 
 - https://github.com/kukuu/redux-react/blob/master/making-http/js/actions.js/index.js 
 
@@ -327,11 +333,28 @@ ii. https://github.com/kukuu/AGILITY/blob/master/BDD.md
 
 - https://www.youtube.com/watch?v=AiTS9YMd6Is (fetching from multi-dimensional arrays)
 
-4. Working with API - https://github.com/kukuu/redux-react/tree/master/react-redux-color-api
+ Working with Multi-diensional array: 
 
-5. REACT Native - https://github.com/kukuu/react-native
+- https://codepen.io/mochiron/pen/jrymLG 
 
-6. REACT Apollo/GraphQL 
+- https://www.youtube.com/watch?v=yh1DOKh4jas
+
+- https://www.youtube.com/watch?v=hzLDsxPGctY
+
+
+ SEARCH: 
+
+- https://www.youtube.com/watch?v=adDTtcmF7W8
+
+- https://github.com/kukuu/react-search-API 
+
+- https://www.youtube.com/watch?v=BvtQMxekmH0 
+
+- https://www.youtube.com/watch?v=OlVkYnVXPl0
+
+4. REACT Native - https://github.com/kukuu/react-native
+
+5. REACT Apollo/GraphQL 
 
 - https://github.com/kukuu/react-apollo-graphql
 
@@ -371,7 +394,7 @@ networkInterface.use([{
 
 - https://www.youtube.com/watch?v=wxbHTCpPxpw (AWS AppSync)
 
-7. Gatsby v NextJS 
+6. Gatsby v NextJS 
 
 i. https://medium.com/javascript-in-plain-english/server-side-rendering-for-websites-or-gatsby-vs-next-js-6caed9a79e16
 
@@ -390,51 +413,31 @@ ii.  https://www.youtube.com/watch?v=xC4Yq_mXvPM
  
  - https://www.youtube.com/watch?v=IkOVe40Sy0U
 
-8. Formik for handling FORM states and validation
+7. Formik for handling FORM states and validation
 
 - https://github.com/kukuu/react-native/blob/master/snippets/formikApp.js
 
 - https://www.youtube.com/watch?v=bttOjT0jfzs
 
-9. Shopping Cart - https://github.com/kukuu/react-redux-shopping-cart 
+8. Shopping Cart - https://github.com/kukuu/react-redux-shopping-cart 
 
-10. Fetching API  data - https://github.com/kukuu/react-api-fetch-data
+9. Run time utility search application - https://github.com/kukuu/react-redux-run-time-search 
 
-11. Run time utility search application - https://github.com/kukuu/react-redux-run-time-search 
+10. Handling multiple FORM inputs with single OnChange handler - https://github.com/kukuu/algorithms/blob/master/algorithms/react-handling-form-inputs.md
 
-12. Handling multiple FORM inputs with single OnChange handler - https://github.com/kukuu/algorithms/blob/master/algorithms/react-handling-form-inputs.md
+11. REACT Hooks - https://github.com/kukuu/react-hooks
 
-13. REACT Hooks - https://github.com/kukuu/react-hooks
+12. Conditional rendering - https://github.com/kukuu/algorithms/blob/master/algorithms/react/react-conditional-rendering.md
 
-14. Conditional rendering - https://github.com/kukuu/algorithms/blob/master/algorithms/react/react-conditional-rendering.md
+13. Adding Firebase to your REACT Native App
 
-15. Working with Multi-diensional array 
+https://www.youtube.com/watch?v=KnwfK807Mgc
 
-- https://codepen.io/mochiron/pen/jrymLG 
-
-- https://www.youtube.com/watch?v=yh1DOKh4jas
-
-- https://www.youtube.com/watch?v=hzLDsxPGctY
-
-16. Adding Firebase to your REACT Native App
-
-- https://www.youtube.com/watch?v=KnwfK807Mgc 
-
-17. REACT SEARCH API
-
-- https://www.youtube.com/watch?v=adDTtcmF7W8
-
-- https://github.com/kukuu/react-search-API 
-
-- https://www.youtube.com/watch?v=BvtQMxekmH0 
-
-- https://www.youtube.com/watch?v=OlVkYnVXPl0
-
-18. Refactor Angular to REACT
+14. Refactor Angular to REACT
 
 i. Convert Angular ROUTES and Components to REACT
 
-ii. cONVERT Angular SERVICES to REDUX
+ii. Convert Angular SERVICES to REDUX
 
 iii. REDUX and SERVICES asssembled into API
 
