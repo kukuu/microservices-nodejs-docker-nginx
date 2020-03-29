@@ -268,6 +268,8 @@ iv. Best Practices
 
 2. Architectures you should know - https://github.com/kukuu/AGILITY/blob/master/white-paper/software-architecture.md
 
+3. Architecting for High Availability  - https://www.youtube.com/watch?v=6uE2XULbT3o
+
 
 # CI/CD with AWS
 
@@ -332,6 +334,10 @@ Fetching data:
 - https://www.youtube.com/watch?v=hzLDsxPGctY
 
 - https://www.youtube.com/watch?v=AiTS9YMd6Is (fetching from multi-dimensional arrays)
+
+- https://www.youtube.com/watch?v=hzLDsxPGctY 
+
+- https://www.youtube.com/watch?v=EgGXWQEmsQ0
 
  Working with Multi-diensional array: 
 
@@ -687,5 +693,10 @@ https://medium.com/@luke_smaki/javascript-es6-classes-8a34b0a6720a
 
 # REDUX & GraphQL
 
-https://medium.com/@childsmaidment/getting-started-with-redux-and-graphql-8384b3b25c56
+https://medium.com/@childsmaidment/getting-started-with-redux-and-graphql-8384b3b25c56 
+
+# PixiJS
+
+https://www.youtube.com/watch?v=zhybw6rE_QU
+
 
