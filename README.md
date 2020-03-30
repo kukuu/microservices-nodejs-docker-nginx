@@ -695,4 +695,8 @@ https://medium.com/@childsmaidment/getting-started-with-redux-and-graphql-8384b3
 
 https://www.youtube.com/watch?v=zhybw6rE_QU
 
+# GraphQL /PostgreSQL / HASURA
+
+- https://www.youtube.com/watch?v=6BffPT96HPg
+
 
