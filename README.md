@@ -697,6 +697,8 @@ https://www.youtube.com/watch?v=zhybw6rE_QU
 
 # GraphQL /PostgreSQL / HASURA
 
-- https://www.youtube.com/watch?v=6BffPT96HPg
+- https://www.youtube.com/watch?v=6BffPT96HPg 
+
+- https://www.youtube.com/watch?v=YufocuHbYZo
 
 
