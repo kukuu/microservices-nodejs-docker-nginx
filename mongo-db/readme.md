@@ -75,7 +75,14 @@ Unsigned can hold a larger positive value, and no negative value. Unsigned uses 
 
 ## Importing data into MongoDB from terminal:
 
-Alexanders-MacBook-Pro:bin alexanderadu-sarkodie$ mongoimport --db test --collection donorschoose  --type json --file /Library/WebServer/Documents/encryption-ware/Interactive-Data-Visualisation-D3-DC-NodejsMongoDB/feed/sampledata.json  --jsonArray
+```
+Alexanders-MacBook-Pro:bin alexanderadu-sarkodie$ mongoimport
+--db test --collection donorschoose  --type json --file 
+/Library/WebServer/Documents/encryption-ware/Interactive-
+Data-Visualisation-D3-DC-NodejsMongoDB
+/feed/sampledata.json  --jsonArray
+
+```
 
 
 At a prompt in a terminal window (or a command prompt for Windows), go to your
