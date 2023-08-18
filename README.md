@@ -66,7 +66,7 @@ https://github.com/kukuu/Microservice-NodeJS/blob/master/README.md
 
 Refactoring a Monolith into Microservices - https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/
 ```
-1. Warm Up with a Simple and Fairly Decoupled Capability. 
+1. Research and look for self-contained targets in the application that can be isolated and, warm up with a Simple and Fairly Decoupled Capability. 
    i.e Authentication and then Profile
 
 2. Minimize Dependency Back to the Monolith. i.e Buying and promotion. 
